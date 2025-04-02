@@ -1,0 +1,7 @@
+{
+  "name": "appMiguel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
